@@ -28,5 +28,7 @@
   </topicref>
   <!-- ↑ end-filtering ↑ -->
   <!-- prettier-ignore-end -->
-  <topicref keyref="installing-via-homebrew"/>
+  <topicref keyref="installing-via-homebrew">
+    <topicref href="Test.dita"/>
+  </topicref>
 </map>
